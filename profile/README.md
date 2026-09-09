@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://financeirum.com.br/img/financeirum-1024.png" width="88" alt="Financeirum">
+  <a href="https://financeirum.com.br">
+    <img src="https://financeirum.com.br/img/financeirum-1024.png" width="88" alt="Financeirum">
+  </a>
 </p>
 
 <h3 align="center">Financeirum</h3>
